@@ -1,0 +1,23 @@
+4 Set/Check sheet metal parameters
+2 Open drawing that matches configuration name
+5 Update old shade washer to metric shade washer
+2 Shortcut to add standard notes
+5 Insert Library Item
+1 Unsuppress all mates
+5 Retrieve new number from drawing log, insert into drawing, and post drawing info in drawing log
+2 Add "THRU" to dimensions
+4 Add view labels by selecting the front view first
+2 Shortcut to add symbol such as <MOD-DIAM> <MOD-CL> etc.
+2 Shortcut to add labels
+5 Monthly sales poster creator
+3 Detect and replace old weld nuts with new weld nuts/clinch nuts (reverse)
+4 Make display states with standard shade appearances for shade part files
+2 Print to pdf/Add pdfs/excel files to Design Binder
+2 Make simple parts (e.g. acrylic diffuser, base/backplate, etc.)
+2 Make sheet metal rectangle with 4 flanges (choose overlap or weld)
+5 Batch pdf writer that creates package in Adobe Acrobat
+1 Add note indicating need of revision/updating
+2 Save flat pattern and update revision if it exists
+
+2 In drawing mode, select part to open drawing or insert drawing view
+2 In assembly mode, select two parts and select planes to mate (Shift+R, Shift+T, Shift+F)
