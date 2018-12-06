@@ -1,0 +1,1 @@
+Cut selected folders and place them in correct locations
