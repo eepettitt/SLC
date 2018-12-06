@@ -1,1 +1,21 @@
-1
+[{
+"command" : {"function":"comment","metadata":{},"parameters":{"comment":"Layer Section VARlayer (0)"},"tags":[]}
+},{
+"command" : {"function":"comment","metadata":{},"parameters":{"comment":"Material 0"},"tags":[]}
+},{
+"command" : {"function":"comment","metadata":{},"parameters":{"comment":"Lower Position  VARlowerPosition"},"tags":[]}
+},{
+"command" : {"function":"comment","metadata":{},"parameters":{"comment":"Upper Position  VARupperPosition"},"tags":[]}
+},{
+"command" : {"function":"comment","metadata":{},"parameters":{"comment":"Thickness       VARthickness"},"tags":[]}
+},{
+"command" : {"function":"comment","metadata":{},"parameters":{"comment":"Width           2.5"},"tags":[]}
+},{
+"command" : {"function":"move","metadata":{"relative":{"a":false,"x":false,"y":false,"z":false}},"parameters":{"a":VARa,"feedrate":50.0,"x":145.50,"y":130.0,"z":0.0},"tags":["Retract"]}
+},{
+"command" : {"function":"move","metadata":{"relative":{"a":false,"x":false,"y":false,"z":false}},"parameters":{"a":VARa,"feedrate":50.0,"x":145.50,"y":130.0,"z":0.0},"tags":["Retract"]}
+},{
+"command" : {"function":"move","metadata":{"relative":{"a":false,"x":false,"y":false,"z":false}},"parameters":{"a":VARa,"feedrate":3.0,"x":145.50,"y":130.0,"z":VARz},"tags":["Travel Move"]}
+},{
+"command" : {"function":"move","metadata":{"relative":{"a":false,"x":false,"y":false,"z":false}},"parameters":{"a":VARa,"feedrate":150.0,"x":VARx,"y":VARy,"z":VARz},"tags":["Travel Move"]}
+},{
